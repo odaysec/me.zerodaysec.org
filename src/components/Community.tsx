@@ -16,7 +16,7 @@ const Community: React.FC = () => {
       role: "Cybersecurity Intelligence",
       specialization: "Threat Analysis & Intelligence Gathering",
       experience: "8+ years",
-      imageUrl: "https://i.ibb.co.com/j9ksh0QT/imageedit-7-4116316551.png"
+      imageUrl: "https://i.ibb.co.com/VcXDk76Q/depositphotos-192424804-stock-video-retro-videogame-confidential-text-computer.jpg"
     },
     {
       id: 2,
