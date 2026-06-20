@@ -115,7 +115,7 @@ const Contact: React.FC = () => {
                 rel="noopener noreferrer"
                 className="px-8 py-3 bg-gradient-to-r from-cyan-500 to-blue-500 text-white font-medium rounded-md shadow hover:shadow-lg transition-all duration-300 text-center"
               >
-                Connect on LinkedIn
+                Connect on Zeroday101
               </a>
               <a 
                 href="mailto:contact@securityuniverse.id" 
