@@ -39,7 +39,7 @@ const Header: React.FC = () => {
           <div className="flex items-center">
             <Shield className="h-8 w-8 text-cyan-500" />
             <span className="ml-2 text-xl font-bold font-mono tracking-tight">
-              Andri<span className="text-cyan-500">.</span>sec
+              Operation<span className="text-cyan-500">.</span>Zero
             </span>
           </div>
 
