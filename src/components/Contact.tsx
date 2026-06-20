@@ -47,10 +47,10 @@ const Contact: React.FC = () => {
                 <Linkedin className="h-8 w-8 text-blue-600 dark:text-blue-400" />
               </div>
             </div>
-            <h3 className="text-lg font-bold mb-2">LinkedIn</h3>
-            <p className="text-gray-500 dark:text-gray-400 mb-4">linkedin.com/in/securewithandri</p>
+            <h3 className="text-lg font-bold mb-2">Bootcamp</h3>
+            <p className="text-gray-500 dark:text-gray-400 mb-4">skill.opzero.id</p>
             <span className="inline-flex items-center text-sm font-medium text-blue-600 dark:text-blue-400">
-              Connect on LinkedIn <ExternalLink size={14} className="ml-1" />
+              Connect on Hacker Bootcamp <ExternalLink size={14} className="ml-1" />
             </span>
           </a>
 
