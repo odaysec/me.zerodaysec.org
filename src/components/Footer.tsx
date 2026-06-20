@@ -11,7 +11,7 @@ const Footer: React.FC = () => {
           <div className="flex items-center mb-6 md:mb-0">
             <Shield className="h-8 w-8 text-cyan-500 mr-2" />
             <span className="text-xl font-bold font-mono tracking-tight">
-              Andri<span className="text-cyan-500">.</span>sec
+              Zeroday<span className="text-cyan-500">.Ops</span>
             </span>
           </div>
           
