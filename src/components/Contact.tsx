@@ -110,7 +110,7 @@ const Contact: React.FC = () => {
             
             <div className="flex flex-col sm:flex-row justify-center space-y-4 sm:space-y-0 sm:space-x-4">
               <a 
-                href="https://www.linkedin.com/in/securewithandri/" 
+                href="https://skill.opzero.id/" 
                 target="_blank" 
                 rel="noopener noreferrer"
                 className="px-8 py-3 bg-gradient-to-r from-cyan-500 to-blue-500 text-white font-medium rounded-md shadow hover:shadow-lg transition-all duration-300 text-center"
