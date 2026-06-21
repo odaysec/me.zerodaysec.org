@@ -158,9 +158,16 @@ const Experience: React.FC = () => {
                           <li>• Security protocol enhancement</li>
                           <li>• Digital infrastructure strengthening</li>
                         </ul>
-                        <p className="text-xs text-gray-500 dark:text-gray-400 mt-2">
-                          Contracted by: Kombes Pol Muhammad Endro, S.I.K., M.H.
-                        </p>
+     <div className="bg-red-50 dark:bg-red-900/20 p-3 rounded-lg">
+                      <p className="text-sm font-medium text-red-700 dark:text-red-300 mb-1">
+                        Under the Authority of: Kombes Pol Muhammad Endro, S.I.K., M.H.
+                      </p>
+                      <p className="text-sm text-gray-600 dark:text-gray-400">
+                        Contracted by Izham Ismail
+                      </p>
+                    </div>
+                  </div>
+                )}
                       </div>
                       
                       <div className="bg-red-50 dark:bg-red-900/20 p-4 rounded-lg">
