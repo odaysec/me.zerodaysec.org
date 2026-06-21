@@ -16,7 +16,7 @@ const Community: React.FC = () => {
       role: "Cybersecurity Intelligence",
       specialization: "Threat Analysis & Intelligence Gathering",
       experience: "8+ years",
-      imageUrl: "https://i.ibb.co.com/nqMVjGKS/omedaysecorg.png"
+      imageUrl: "https://i.ibb.co.com/GQCdZ03w/1.png"
     },
     {
       id: 2,
@@ -37,7 +37,7 @@ const Community: React.FC = () => {
       role: "Security Researcher",
       specialization: "Zero-day Vulnerability Research",
       experience: "5+ years",
-      imageUrl: "https://i.ibb.co.com/GQCdZ03w/1.png"
+      imageUrl: "https://i.ibb.co.com/939xNMw7/2.png"
     }
   ];
 
