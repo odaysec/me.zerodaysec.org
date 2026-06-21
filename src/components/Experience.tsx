@@ -43,7 +43,7 @@ const Experience: React.FC = () => {
       title: "Software Protection Engineer",
       organization: "PT.Kreon Gemscool Indonesia",
       year: "2015",
-      description: "Worked as a Software Protection Engineer focused on game security analysis, vulnerability assessment, and software protection research for beta-stage online games. Performed reverse engineering and debugging activities to identify security weaknesses, analyze application behavior, and support anti-cheat development. Collaborated with development teams to evaluate potential risks, strengthen security measures, and improve system resilience before public release. Provided technical reports and recommendations to enhance application integrity, stability, and overall protection against unauthorized modifications.",
+      description: "Worked as a Software Protection Engineer focused on game assessment, and software protection research for beta-stage online games. Performed reverse engineering and debugging activities to identify security weaknesses, analyze application behavior, and support anti-cheat development. Collaborated with development teams to evaluate potential risks, strengthen security measures, and improve system resilience before public release. Provided technical reports and recommendations to enhance application integrity, stability, and overall protection against unauthorized modifications.",
       link: "http://www.securityuniverse.id"
     }
   ];
