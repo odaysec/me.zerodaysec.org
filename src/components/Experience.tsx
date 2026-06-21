@@ -18,15 +18,15 @@ const Experience: React.FC = () => {
       icon: <Shield className="h-6 w-6 text-blue-500" />,
       title: "Cyber Security Intelligence",
       organization: "Private Company",
-      year: "Jul 2022 - Jun 2025",
+      year: "Jan 2022 - Jun 2025",
       description: "In my role as a Cyber Security Intelligence professional, I am responsible for designing and developing cutting-edge security tools that are unprecedented globally. My primary focus is to strengthen and advance cybersecurity technology within the Republic of Indonesia, enhancing the resilience of our national technology systems. By prioritizing sophisticated and innovative solutions, I work to establish a robust security foundation capable of withstanding evolving cyber threats. This role involves direct service to the nation, where I am entrusted with critical assignments that emphasize safeguarding Indonesia's digital infrastructure and sensitive information. My work extends into research and development efforts aimed at boosting our country's cyber defense capabilities, creating a secure technological ecosystem that can withstand emerging risks. This commitment not only aims to protect digital assets but also to uphold the sovereignty and resilience of Indonesia's digital landscape. Through this position, I am privileged to contribute to Indonesia's vision of a secure digital future and play a vital role in the collective effort to enhance our country's technological and information security at both national and global levels.",
     },
     {
       id: 2,
       icon: <Award className="h-6 w-6 text-green-500" />,
       title: "Cybersecurity Intern",
-      organization: "Malaysia Airlines",
-      year: "Jul 2020 - Dec 2020",
+      organization: "Malaysia Airlines (WFA)",
+      year: "Aug 2021 - Dec 2020",
       description: "6-Month Security Contract (Remote/WFH) - Engaged in a six-month contract with Malaysia Airlines to identify and remediate security vulnerabilities within their web applications. Successfully discovered and reported multiple security flaws, which were officially documented in the Security Hunter database under reference number BBP2020070100. Client: Malaysia Airlines (contracted by Izham Ismail). Key Skills Applied: Penetration Testing, Vulnerability Assessment, and Vulnerability Research.",
     },
     {
@@ -43,7 +43,7 @@ const Experience: React.FC = () => {
       title: "Software Protection Engineer",
       organization: "PT.Kreon Gemscool Indonesia",
       year: "2015",
-      description: "Worked as a Reverse Engineer specializing in creating D3D menus, game exploitation, and penetration testing for beta-stage games. Conducted reverse engineering processes to identify vulnerabilities, develop custom tools, and enhance system security. Collaborated with clients such as PT. Kreon Gemscool Indonesia to ensure their games were thoroughly tested against potential exploits and security risks. Delivered actionable insights and solutions to improve the robustness of gaming systems and maintain integrity during pre-release phases.",
+      description: "Worked as a Software Protection Engineer focused on game security analysis, vulnerability assessment, and software protection research for beta-stage online games. Performed reverse engineering and debugging activities to identify security weaknesses, analyze application behavior, and support anti-cheat development. Collaborated with development teams to evaluate potential risks, strengthen security measures, and improve system resilience before public release. Provided technical reports and recommendations to enhance application integrity, stability, and overall protection against unauthorized modifications.",
       link: "http://www.securityuniverse.id"
     }
   ];
