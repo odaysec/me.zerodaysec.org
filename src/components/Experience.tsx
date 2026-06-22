@@ -26,7 +26,7 @@ const Experience: React.FC = () => {
       icon: <Award className="h-6 w-6 text-green-500" />,
       title: "Cybersecurity Intern",
       organization: "Malaysia Airlines (WFA)",
-      year: "Aug 2021 - Dec 2020",
+      year: "Aug 2021 - Dec 2021",
       description: "6-Month Security Contract (Remote/WFH) - Engaged in a six-month contract with Malaysia Airlines to identify and remediate security vulnerabilities within their web applications. Successfully discovered and reported multiple security flaws, which were officially documented in the Security Hunter database under reference number BBP2020070100. Client: Malaysia Airlines (contracted by Izham Ismail). Key Skills Applied: Penetration Testing, Vulnerability Assessment, and Vulnerability Research.",
     },
     {
